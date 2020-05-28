@@ -73,5 +73,8 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+[[item]]
+title = "Hola"
 +++
 

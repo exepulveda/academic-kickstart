@@ -1,3 +1,11 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "publicpwd"]
+	path = publicpwd
+	url = https://github.com/exepulveda/exepulveda.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/exepulveda/exepulveda.github.io.git
+	branch = master

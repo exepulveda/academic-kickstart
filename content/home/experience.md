@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Researcher Fellow"
+  company = "The University of Adelaide"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Adelaide, Australia"
+  date_start = "2019-08-01"
   date_end = ""
-  description = """
+  description = """Rapid Resource Model Updating
+
   Responsibilities include:
   
-  * Analysing
+  * Research
   * Modelling
-  * Deploying
+  * Developing
+  """
+[[experience]]
+  title = "Postdoctoral Researcher Fellow"
+  company = "The University of Adelaide"
+  company_url = ""
+  location = "Adelaide, Australia"
+  date_start = "2018-04-01"
+  date_end = "2018-07-31"
+  description = """HeterogeneityIndexforGradeEngineering
+
+  Responsibilities include:
+  
+  * Research
+  * Modelling
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "HPC Support Offcier & Analyst"
+  company = "The University of Adelaide"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Adelaide, Australia"
+  date_start = "2015-06-01"
+  date_end = "2018-03-31"
+  description = """Part of support team helping researchers to use HPC Phoenix system.
+  Deliver workshops and tutorials.
+  """
 
 +++
