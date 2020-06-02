@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Adelaide, Australia"
   date_start = "2018-04-01"
-  date_end = "2018-07-31"
-  description = """HeterogeneityIndexforGradeEngineering
+  date_end = "2019-07-31"
+  description = """Heterogeneity Index for Grade Engineering
 
   Responsibilities include:
   

@@ -97,7 +97,7 @@ address = {street = "The University of Adelaide", city = "Adelaide", region = "S
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.916564", longitude = "138.604784"}
+coordinates = {latitude = "-34.91903", longitude = "138.60533"}
 
 # Directions for visitors to locate you.
 directions = "Engineering North, Office N138 (level 1)"
